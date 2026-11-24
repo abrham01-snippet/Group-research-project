@@ -33,12 +33,12 @@ This study evaluates e-waste awareness, current management practices, and instit
 - AAU property records and relevant regulatory documents
 
 ## 4. Group Members and Responsibilities
-1.Abrham  Kassaye ——— UGR/4875/17
-2.Nebiyu  Gelagay ——— UGR/6259/17
-3.Neima  Jemal    ——— UGR/0407/17
-4.Gashahun  W/Yohannes —— UGR/5241/15
-5.Betelhem  Tadele ——— UGR/0128/15
-6.Fitsum  Fisha  ——— UGR/2785/17
+|1.Abrham  Kassaye ——— UGR/4875/17|
+|2.Nebiyu  Gelagay ——— UGR/6259/17|
+|3.Neima  Jemal    ——— UGR/0407/17|
+|4.Gashahun  W/Yohannes —— UGR/5241/15|
+|5.Betelhem  Tadele ——— UGR/0128/15|
+|6.Fitsum  Fisha  ——— UGR/2785/17|
 
 We are still figuring the responsibilities out for better division!
 
