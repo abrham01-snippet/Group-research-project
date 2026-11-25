@@ -25,6 +25,8 @@ This study evaluates e-waste awareness, current management practices, and instit
 **Software:**
 - IBM SPSS Statistics 26
 - Microsoft Excel
+- Git
+- Github
 
 **Planned Data Sources:**
 - Structured questionnaires
@@ -58,3 +60,23 @@ We have already divided and done the proposal, and  are still figuring the remai
 ## 6. Project Documentation
 
 This repository documents the research process, including project development, data collection, analysis, revisions, and final deliverables. It is maintained collaboratively by all group members.
+
+
+## 7. Project Status
+
+The research project is currently transitioning from the proposal development phase to research implementation.
+
+### Progress Tracking
+
+- [x] Research proposal development and completion.
+- [x] GitHub repository creation and initial organization.
+- [x] Uploading the completed research proposal.
+- [ ] Finalization of group responsibilities and task allocation.
+- [ ] Development of research instruments (questionnaire, interview guide, and observation checklist).
+- [ ] Pilot study and instrument revisions.
+- [ ] Obtaining research permission and conducting data collection.
+- [ ] Data cleaning and preparation.
+- [ ] Quantitative and qualitative data analysis.
+- [ ] Interpretation and discussion of findings.
+- [ ] Final research report preparation.
+- [ ] Preparation and delivery of the final presentation.
