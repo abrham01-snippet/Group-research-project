@@ -26,7 +26,7 @@ This study evaluates e-waste awareness, current management practices, and instit
 - IBM SPSS Statistics 26
 - Microsoft Excel
 
-**Data Sources:**
+**Planned Data Sources:**
 - Structured questionnaires
 - Semi-structured interviews
 - Physical observation checklists
