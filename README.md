@@ -45,7 +45,7 @@ This study evaluates e-waste awareness, current management practices, and instit
 
 6.Fitsum  Fisha  ——— UGR/2785/17
 
-We are still figuring the responsibilities out for better division!
+We have already divided and done the proposal, and  are still figuring the remaining responsibilities out for better division!
 
 ## 5. Reproducing the Analysis
 
